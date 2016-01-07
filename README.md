@@ -13,3 +13,12 @@ Schematic of Arduino with ESP8266
 
 ![Screen](ESP8266_with_DHT.png)
 Scematic of Arduino with ESP8266 and DHT
+
+Software and Libraries Used  
+1. Arduino IDE 1.6.5 or later  
+2. [IFTTT] (https://ifttt.com/)  
+3. [DHT sensor library] (https://github.com/adafruit/DHT-sensor-library)  
+4. [WiFiEsp] (https://github.com/bportaluri/WiFiEsp)  
+5. your own Google drive account  
+
+Post Note: I did not write any of the codes here. However, I used both to implement them together to tinker around with the Internet of Things 
